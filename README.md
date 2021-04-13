@@ -1,4 +1,4 @@
-# x2y - An Alternative to the Correlation Coefficient That Works For Numeric *and* Categorical Variables
+# x2y: An Alternative to the Correlation Coefficient That Works For Numeric *and* Categorical Variables
 
 When starting to work with a new dataset, it is useful to quickly pinpoint which pairs of variables appear to be strongly related. It helps you spot data issues, make better modeling decisions, and ultimately arrive at better answers.
 
