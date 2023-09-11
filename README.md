@@ -8,4 +8,4 @@ The [correlation coefficient](https://en.wikipedia.org/wiki/Correlation_coeffici
 
 We propose an alternative - the `x2y` metric - that remedies these shortcomings.
 
-Please see this [article](https://rama100.github.io/lecture-notes/x2y.nb.html) for more detail on what it is and how it works, along with examples.
+Please see this [article](https://rama100.github.io/explainers/x2y.nb.html) for more detail on what it is and how it works, along with examples.
